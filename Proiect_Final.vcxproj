@@ -141,6 +141,11 @@
   <ItemGroup>
     <ClCompile Include="Proiect_Final.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="Debug\BattleFinal.wav" />
+    <Media Include="Debug\Exploring.wav" />
+    <Media Include="Debug\Main_Menu.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
